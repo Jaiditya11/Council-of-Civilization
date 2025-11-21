@@ -20,6 +20,7 @@ This project simulates a council of expert agents (Policy, Doctor, Engineer, etc
     ```bash
     ollama pull mistral
     ```
+4.  In the Memories folder,you can add document from specific field so that the Agent can use at as a reference for better RAG Performance.
 
 ## Usage
 Run the Streamlit UI:
