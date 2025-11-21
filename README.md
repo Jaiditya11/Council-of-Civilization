@@ -26,3 +26,15 @@ Run the Streamlit UI:
 ```bash
 streamlit run ui/app.py
 ```
+
+## Screenshots
+
+### 1. The Council Chamber
+![Landing Page](assets/landing_page.png)
+
+### 2. Agents Debating
+![Debate View](assets/debate_view.png)
+
+### 3. Final Consensus Plan
+![Consensus Plan](assets/consensus_plan.png)
+
